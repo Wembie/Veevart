@@ -1,15 +1,15 @@
 # Veevart
 
-#Mochila
+# Mochila
 Para la mochila se uso programacion dinamica exactamente memorización y ahorrar tiempo de ejecucion ademas de ello lograr la mejor optimización, con todos sus bonus, se hizo el codigo en python y luego se aplico a apex (salesforce).
 
-##Ejecución
+## Ejecución
 Ejecutar y saldra su respectivo valor maximo con los elementos que no lograr ir dentro de la mochila al igual que su valor total.
 
-#Ascensor
+# Ascensor
 Para el ascensor se uso un heap con prioridad segun su piso ademas incluye si esta bajando o subiendo se acomoda a lo mas optimo, tambien se hizo el bono de preguntar hacia que piso quisiera ir, cumple su misma funcion, se desarrollo en python las 2 versiones del codigo.
 
-##Ejecución
+## Ejecución
 Ejecutar y saldra exactamente igual que sale en el documento del Test 9, y para la version 2, se ejecuta y en cada piso inicial se pregunta hacia donde quiere ir.
 
 ## Instalación
